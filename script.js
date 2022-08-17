@@ -1,3 +1,4 @@
+//https://rolling-scopes-school.github.io/uttake-JSFEPRESCHOOL2022Q2/momentum/
 const time = document.querySelector('.time')
 const date = document.querySelector('.date')
 const greeting = document.querySelector('.greeting')
